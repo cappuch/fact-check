@@ -4,9 +4,9 @@ exa + llm = fact checker for politics and stuff.
 
 ## how to set up
 
-this project uses uv. if you don't know how to use it, google it up. otherwise, just follow:
-
-you probably know the gist.. clone, uv sync
+install go.
+run go mod tidy.
+run go build fact-check .
 
 supply api keys. pretty important obv. sampel format in .env.example.
 

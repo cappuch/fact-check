@@ -12,3 +12,6 @@ wheels/
 
 factcheck.db
 .env
+
+
+fact-check
